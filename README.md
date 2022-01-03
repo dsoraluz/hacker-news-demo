@@ -2,4 +2,4 @@
 ## Project
 This is a (soft) "Hacker News" clone.
 
-You can view the final project at hn.ui.dev
+You can view the final project at https://quizzical-lamarr-da1e66.netlify.app/
